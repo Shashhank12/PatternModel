@@ -12,7 +12,8 @@ public class four {
                 System.out.print(" ");
             }
             System.out.println();
-            for(int m = 0; m < i;q++) 
+            for(int m = 0; m < i;i++)
+            { 
                 System.out.print(" ");
                 for(int n = 1; n < i;n++)
                 {   
